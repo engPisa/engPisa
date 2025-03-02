@@ -10,7 +10,7 @@
 
 - 🌱 Estou estudando **Node, Mobile e Microserviços.**
 
-- 📫 Me encontre: **cesar.au563@gmail.com**
+- 📫 Me encontre: **cpisa.eng@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
