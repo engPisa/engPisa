@@ -2,13 +2,13 @@
 
 <h3 align="center">Cada projeto conta uma história única, e eu sou um contador de histórias.</h3>
 
-<img align="right" alt= "Coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+<img align="right" alt="Coding" width="400" src="https://www.bhmpics.com/downloads/lofi-gif/31.581c70082e55eb9f9b4e74f5947d44f4.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devpisa&label=Profile%20views&color=0e75b6&style=flat" alt="devpisa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engPisa&label=Profile%20views&color=0e75b6&style=flat" alt="engpisa" /> </p>
 
 - 🔭 Atualmente estou trabalhando no projeto **SISTEMA GERENCIADOR DE ALUNOS. 🧑‍🎓**
 
-- 🌱 Estou estudando **Java Spring e MVC Architeture.**
+- 🌱 Estou estudando **Node, Mobile e Microserviços.**
 
 - 📫 Me encontre: **cesar.au563@gmail.com**
 
