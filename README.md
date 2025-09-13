@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=engPisa&label=Profile%20views&color=0e75b6&style=flat" alt="engpisa" />
 </p>
 
-- 🚀 Atualmente construindo o **SAGAHUB** <img src="https://raw.githubusercontent.com/saga-contabilidade/portal-repo/main/public/assets/img/logo-cubo.png" width="20" style="align-items: center; text-decoration: none;"/>.
+- 🚀 Atualmente construindo o <a href="https://github.com/pisium"> **QuickApp**.</a> 
 - 🌱 Aprimorando minhas habilidades em **Node.js, TypeScript e Design Patterns**.
 - 📫 Quer trocar uma ideia? Me mande um e-mail: **[cpisa.eng@hotmail.com](mailto:cpisa.eng@hotmail.com)**
 
