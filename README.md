@@ -12,7 +12,7 @@
 
 - 🚀 Atualmente construindo o <a href="https://github.com/usequickapp"> **QuickApp**.</a> 
 - 🌱 Aprimorando minhas habilidades em **Node.js, TypeScript e Design Patterns**.
-- 📫 Quer trocar uma ideia? Me mande um e-mail: **[cpisa.eng@hotmail.com](mailto:cesar.pisa@usequickapp.com.br)**
+- 📫 Quer trocar uma ideia? Me mande um e-mail: **[cesar.pisa@usequickapp.com.br](mailto:cesar.pisa@usequickapp.com.br)**
 
 #### 🛠️ Minha Stack de Tecnologias
 
