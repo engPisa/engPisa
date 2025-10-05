@@ -10,16 +10,16 @@
   <img src="https://komarev.com/ghpvc/?username=engPisa&label=Profile%20views&color=0e75b6&style=flat" alt="engpisa" />
 </p>
 
-- 🚀 Atualmente construindo o <a href="https://github.com/pisium"> **QuickApp**.</a> 
+- 🚀 Atualmente construindo o <a href="https://github.com/usequickapp"> **QuickApp**.</a> 
 - 🌱 Aprimorando minhas habilidades em **Node.js, TypeScript e Design Patterns**.
-- 📫 Quer trocar uma ideia? Me mande um e-mail: **[cpisa.eng@hotmail.com](mailto:cpisa.eng@hotmail.com)**
+- 📫 Quer trocar uma ideia? Me mande um e-mail: **[cpisa.eng@hotmail.com](mailto:cesar.pisa@usequickapp.com.br)**
 
 #### 🛠️ Minha Stack de Tecnologias
 
 Sou agnóstico a tecnologias e sempre escolho a melhor ferramenta para o trabalho. Estas são as que tenho mais usado:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,nextjs,python,java,docker,azure&perline=8" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,ts,nextjs,python,java,docker,aws&perline=8" alt="My Skills"/>
 </p>
 
 #### 📫 Vamos Conectar?
